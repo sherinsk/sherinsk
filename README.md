@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sherin S</h1>
-<h3 align="center">Highly analytical individual with strong apt for learning and collaborative skills. Looking to obtain a Data Scientist position, to have first data scientist experience.</h3>
+<h3 align="center">Highly analytical individual with strong apt for learning and collaborative skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinsk&label=Profile%20views&color=0e75b6&style=flat" alt="sherinsk" /> </p>
 
