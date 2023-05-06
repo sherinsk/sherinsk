@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherinsk&label=Profile%20views&color=0e75b6&style=flat" alt="sherinsk" /> </p>
 
-- 🌱 I’m currently learning **Python, C, C++**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **sherinsk007@gmail.com**
 
